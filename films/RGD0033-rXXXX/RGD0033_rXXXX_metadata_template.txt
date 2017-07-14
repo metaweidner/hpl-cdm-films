@@ -1,0 +1,91 @@
+link:
+reelNumber:
+displayDate:
+dateCreated:
+era:
+duration:
+subjectTerms:
+	-
+	-
+	-
+clips:
+	-
+		name:
+		date:
+		timestamp:
+		duration:
+		video:
+		audio:
+		about:
+	-
+		name:
+		date:
+		timestamp:
+		duration:
+		video:
+		audio:
+		about:
+	-
+		name:
+		date:
+		timestamp:
+		duration:
+		video:
+		audio:
+		about:
+	-
+		name:
+		date:
+		timestamp:
+		duration:
+		video:
+		audio:
+		about:
+	-
+		name:
+		date:
+		timestamp:
+		duration:
+		video:
+		audio:
+		about:
+	-
+		name:
+		date:
+		timestamp:
+		duration:
+		video:
+		audio:
+		about:
+	-
+		name:
+		date:
+		timestamp:
+		duration:
+		video:
+		audio:
+		about:
+	-
+		name:
+		date:
+		timestamp:
+		duration:
+		video:
+		audio:
+		about:
+	-
+		name:
+		date:
+		timestamp:
+		duration:
+		video:
+		audio:
+		about:
+	-
+		name:
+		date:
+		timestamp:
+		duration:
+		video:
+		audio:
+		about:
