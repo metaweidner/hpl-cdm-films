@@ -133,11 +133,11 @@ Loop, %iterations%
 	description := description . name . ", "
 	description := description . DisplayDate(date) . ": "
 	description := description . about
-	description := description . ";"
+	description := description . "; "
 	description_review := description_review . name . ", "
 	description_review := description_review . DisplayDate(date) . ": "
 	description_review := description_review . about
 	description_review := description_review . "`n`t"
 }
-StringTrimRight, description, description, 1
+StringTrimRight, description, description, 2
 StringTrimRight, description_review, description_review, 2

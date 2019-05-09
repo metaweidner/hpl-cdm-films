@@ -129,7 +129,7 @@ Loop, %iterations%
 		Return
 	}
 	subject_terms := subject_terms . term
-	subject_terms := subject_terms . " `;<br/>"
+	subject_terms := subject_terms . "`; "
 	subject_terms_review := subject_terms_review . term
 	subject_terms_review := subject_terms_review . "`n`t"
 }
